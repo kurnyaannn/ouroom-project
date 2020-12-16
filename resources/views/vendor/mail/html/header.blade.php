@@ -1,7 +1,7 @@
 <tr>
     <td class="header">
         <a href="{{ $url }}">
-            ATM Classroom
+            Ouroom
         </a>
     </td>
 </tr>

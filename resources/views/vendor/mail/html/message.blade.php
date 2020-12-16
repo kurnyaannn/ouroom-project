@@ -21,7 +21,7 @@
     {{-- Footer --}}
     @slot('footer')
         @component('mail::footer')
-            © {{ date('Y') }} ATM Classroom. @lang('All rights reserved.')
+            © {{ date('Y') }} Ouroom. @lang('All rights reserved.')
         @endcomponent
     @endslot
 @endcomponent
