@@ -1,0 +1,84 @@
+.form-gap {
+    padding-top: 70px;
+}
+
+.logoreset {
+    background-color:#2F4F4F;
+}
+
+fieldset 
+{
+	border: 1px solid #ddd !important;
+	margin: 0;
+	xmin-width: 0;
+	padding: 10px;       
+	position: relative;
+	border-radius:4px;
+	background-color:#f5f5f5;
+	padding-left:10px!important;
+}	
+
+legend
+{
+	font-size:14px;
+	font-weight:bold;
+	margin-bottom: 0px;
+	min-width: 35%;
+	width: auto; 
+	border: 1px solid #ddd;
+	border-radius: 4px; 
+	padding: 5px 5px 5px 10px; 
+	background-color: #ffffff;
+}
+
+
+/*Profile PP*/
+
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+
+.inputfile + label {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: #9a9a9a;
+	border: 2px solid #286cd2;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+	background-color: #2185d0;
+	color: white;
+}
+
+.inputfile + label {
+	cursor: pointer; /* "hand" cursor */
+}
+
+.inputfile:focus + label {
+	outline: 1px dotted #000;
+	outline: -webkit-focus-ring-color auto 5px;
+}
+
+.center-cropped {
+  width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.content h3{
+	margin: 0px 0px 10px !important;
+}
+
+.card{
+	margin-bottom: 5px !important;
+}
