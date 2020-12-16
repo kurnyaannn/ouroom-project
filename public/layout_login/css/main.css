@@ -194,7 +194,7 @@ iframe {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 50px 130px 30px 95px;
+  padding: 50px 120px 30px 70px;
 }
 
 .wrap-reset {
@@ -249,7 +249,7 @@ iframe {
 /*------------------------------------------------------------------
 [  ]*/
 .login100-pic {
-  width: 316px;
+  width: 420px;
 }
 
 .login100-pic img {

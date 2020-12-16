@@ -12,14 +12,14 @@
     <div class="container-login">
         <div class="wrap-login">
             <div class="login100-pic js-tilt" data-tilt>
-                <img src="<?= URL::to('/layout_login/images/logo fix.png') ?>" alt="IMG">
+                <img src="<?= URL::to('/layout_login/images/undraw.png') ?>" alt="IMG">
             </div>
             <form method="POST" action="{{ route('login') }}" class="login100-form validate-form">
 
                 @csrf
 
                 <span class="login100-form-title">
-                    ATM Classroom
+                    Ouroom
                 </span>
                 <div class="wrap-input100" data-validate="Valid email is required: ex@abc.xyz">
                     <input class="input100" type="text" name="username" placeholder="Username" id="username">

@@ -10,7 +10,7 @@
                 @csrf
 
                 <span class="register100-form-title">
-                    ATM Classroom Register
+                    Ouroom Register
                 </span>
                 <div class="wrap-input100">
                     <input class="inputRegister" type="text" name="full_name" placeholder="Nama Lengkap" id="full_name" value="{{ old('full_name') }}">
