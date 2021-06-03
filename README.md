@@ -32,6 +32,9 @@ $ php artisan classroom:setup
   * Assessment
 * Siswa Level
   * Class feature
+
+
+*ps: In order to join a Class. The student needs to have same `Jurusan`, `Angkatan`, & `Class Token` with the chosen Class.
   
 ## Contributing
 - Fork it ( https://github.com/kurnyaannn/ouroom-project/fork )
@@ -44,4 +47,4 @@ $ php artisan classroom:setup
 As you can see Ouroom is under MIT License
 
 ## About the Author
-<a href="http://facebook.com/y21kurnia">Yayang Kurnia</a>.
+<a href="https://kurnyaannn.github.io">Yayang Kurnia</a>.
