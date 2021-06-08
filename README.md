@@ -2,7 +2,7 @@
 <h4 align="center">Google Classroom Wannabe</h4>
 
 
-![Ouroom](https://github.com/kurnyaannn/ouroom-project/blob/master/public/asset/auth.jpeg?raw=true)
+![Ouroom](https://github.com/kurnyaannn/ouroom-project/blob/master/public/asset/ouroom.png?raw=true)
 <h5 align="center">Illustration by Undraw</h5>
 
 ## Requirements
