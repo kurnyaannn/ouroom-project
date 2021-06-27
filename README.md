@@ -20,12 +20,7 @@ $ php artisan classroom:setup
 ```
 
 ## Usage
-Demo : ( http://atm-classroom.herokuapp.com )
-
-* Creator Level
-  Username | Password
-  -------- | ---------
-  creator  | creatoratm
+* Creator Level (check UserSeeds for credentials)
   * Can access all feature available
 * Administrator Level
   * Can access all feature except update role and notifying Creator
@@ -35,7 +30,11 @@ Demo : ( http://atm-classroom.herokuapp.com )
 * Siswa Level
   * Class feature
 
-
+## Demo
+Demo link: ( http://atm-classroom.herokuapp.com )
+Username | Password
+-------- | ---------
+admin    | adminatm
 *ps: In order to join a Class. The student needs to have same `Jurusan`, `Angkatan`, & `Class Token` with the chosen Class.
   
 ## Contributing
