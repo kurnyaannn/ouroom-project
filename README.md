@@ -35,6 +35,7 @@ Demo link: ( http://atm-classroom.herokuapp.com )
 Username | Password
 -------- | ---------
 admin    | adminatm
+
 *ps: In order to join a Class. The student needs to have same `Jurusan`, `Angkatan`, & `Class Token` with the chosen Class.
   
 ## Contributing
